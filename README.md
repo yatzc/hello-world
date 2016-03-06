@@ -1,2 +1,8 @@
 # hello-world
-My first repository
+#My first repository
+
+def helloWorld():
+    print "Hello world"
+    
+#open function
+#helloWorld()
